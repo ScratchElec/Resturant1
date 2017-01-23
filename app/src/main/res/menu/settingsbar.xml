@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item  
+        android:id="@+id/menurate"  
+        android:title="Rate Us :)"/>  
+
+    <item  
+        android:id="@+id/menucreates"  
+        android:title="Creates By"/>  
+        <item  
+        android:id="@+id/menucontact"  
+        android:title="Find Us on FaceBook"/>  
+
+</menu>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Android\\Resturant1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\grb.xml",
+        "source": "E:\\Android\\Resturant1\\app\\src\\main\\res\\layout-large\\grb.xml"
+    },
+    {
+        "merged": "E:\\Android\\Resturant1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\allrest.xml",
+        "source": "E:\\Android\\Resturant1\\app\\src\\main\\res\\layout-large\\allrest.xml"
+    },
+    {
+        "merged": "E:\\Android\\Resturant1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\allc.xml",
+        "source": "E:\\Android\\Resturant1\\app\\src\\main\\res\\layout-large\\allc.xml"
+    },
+    {
+        "merged": "E:\\Android\\Resturant1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\order.xml",
+        "source": "E:\\Android\\Resturant1\\app\\src\\main\\res\\layout-large\\order.xml"
+    },
+    {
+        "merged": "E:\\Android\\Resturant1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cafe.xml",
+        "source": "E:\\Android\\Resturant1\\app\\src\\main\\res\\layout-large\\cafe.xml"
+    },
+    {
+        "merged": "E:\\Android\\Resturant1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\ice.xml",
+        "source": "E:\\Android\\Resturant1\\app\\src\\main\\res\\layout-large\\ice.xml"
+    },
+    {
+        "merged": "E:\\Android\\Resturant1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\menu.xml",
+        "source": "E:\\Android\\Resturant1\\app\\src\\main\\res\\layout-large\\menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\Resturant1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\pate.xml",
+        "source": "E:\\Android\\Resturant1\\app\\src\\main\\res\\layout-large\\pate.xml"
+    }
+]

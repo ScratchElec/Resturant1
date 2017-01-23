@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\classes-5646fae1ffcd38c5fe020ed69d3a93a9951f422e.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\classes-0502255d6d0965cd28b763d7031ac4df9bd9c5a4.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\libs\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-307b0c3f3d020606cbeee343e05847ec4a25533b.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\classes-44d547753676067fd06b54adf820b7b17cde0acc.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5da04cfc546140f5c03008f0221cd5dcf169e8c3">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\classes-4fd719c2f14a808f982634059708977140fce695.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\libs\google-http-client-gson-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b3cdefb990d5212bb2a130525b20e2c44aeffc4c">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\google-http-client-gson-1.19.0-6108894dcdd5de9a3b64dc30353d1dd6d2a3d68e.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\classes-135d24f7b7efad1c8eca4aa721d50a4a18e600d7.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\libs\gson-2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\gson-2.1-09debbc00ba72d6fcc9b808cb656bc2775ea15da.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\libs\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.19.0-f1e7a7dc9056703ac80f21e14538db6b56b2d12e.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\classes-acdfd5d2b9d4a84e1f2ca8b182a50ae208cc3271.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\libs\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\google-http-client-1.19.0-bc699f642be79f4c6d18e09406fd5f3add5f9abb.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\libs\java-api-core-2.10.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3a649e1ff6a01eed97097bd54eaa081dc9ae95">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\java-api-core-2.10.5-e1b8d4e519ac95df735d32a7f2b2a25e1ca69bbc.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\classes-139882ce8ebdcd1f23bca540949e9e51a2c26cd9.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\libs\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.19.0-c38f2347f4c987accddeb89a29bc8ac49486ebcb.jar" />
+    </item>
+    <item
+        jar="E:\PROGRAMMING\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-5a6ba13d7e546d467c02b60c57c30a6746b41bed.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\libs\guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\guava-18.0-5d490827cd6590577c883ff5b66abeb3a87c9322.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-3bc27bc8f26f9bba40763358ea0b82fad8a3c4d6.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\classes-d71a53f1f68a58464520c008acac12e78344cd82.jar" />
+    </item>
+    <item
+        jar="E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="E:\Android\Resturant1\app\build\intermediates\pre-dexed\debug\classes-3dc22348b54cdf3da98c3cbd49f34d884d59a5d3.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    
+     >
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/ate"
+        
+        >
+        <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            >
+
+           
+             <ImageButton 
+                android:id="@+id/sabr"
+                android:layout_width="250dp"
+                android:layout_height="70dp"
+                android:layout_marginLeft="30dp"
+                android:adjustViewBounds="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/sabr"
+                
+                />
+            
+                        
+                        
+                             <ImageButton 
+                android:id="@+id/s3"
+                android:layout_width="250dp"
+                android:layout_height="70dp"
+                android:adjustViewBounds="true"
+                android:layout_alignLeft="@+id/sabr"
+                android:layout_below="@+id/sabr"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/s2"
+                
+                />
+
+            
+
+        </RelativeLayout>
+    </ScrollView>
+    </FrameLayout>
+
+</LinearLayout>

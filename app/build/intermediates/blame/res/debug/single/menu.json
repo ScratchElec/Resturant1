@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\Resturant1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menubar.xml",
+        "source": "E:\\Android\\Resturant1\\app\\src\\main\\res\\menu\\menubar.xml"
+    },
+    {
+        "merged": "E:\\Android\\Resturant1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bar.xml",
+        "source": "E:\\Android\\Resturant1\\app\\src\\main\\res\\menu\\bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\Resturant1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settingsbar.xml",
+        "source": "E:\\Android\\Resturant1\\app\\src\\main\\res\\menu\\settingsbar.xml"
+    }
+]

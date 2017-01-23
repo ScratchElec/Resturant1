@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.resturant.me"
+    android:versionCode="10"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <!-- Permissions required for GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- Optional permission for App measurement to run. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoh"
+        android:label="Restaurants , Cafes"
+        android:theme="@android:style/DeviceDefault.Light.ButtonBar" >
+        <activity
+            android:name="com.resturant.me.Spalsh"
+            android:screenOrientation="locked" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.resturant.me.Menu"
+            android:label="Menu"
+            android:screenOrientation="locked"
+            android:theme="@style/MyTheme" >
+            <intent-filter>
+                <action android:name="com.resturant.me.MENU" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.resturant.me.Rest"
+            android:label="Restaurants"
+            android:screenOrientation="locked"
+            android:theme="@style/MyTheme" />
+        <activity
+            android:name="com.resturant.me.AllRest"
+            android:screenOrientation="locked"
+            android:theme="@style/MyTheme" />
+        <activity
+            android:name="com.resturant.me.Ice"
+            android:screenOrientation="locked"
+            android:theme="@style/MyTheme" />
+        <activity
+            android:name="com.resturant.me.AllIce"
+            android:screenOrientation="locked"
+            android:theme="@style/MyTheme" />
+        <activity
+            android:name="com.resturant.me.Cafes"
+            android:label="Cafes"
+            android:screenOrientation="locked"
+            android:theme="@style/MyTheme" />
+        <activity
+            android:name="com.resturant.me.AllCAfes"
+            android:screenOrientation="locked"
+            android:theme="@style/MyTheme" />
+        <activity
+            android:name="com.resturant.me.Pat"
+            android:label="Patesseries"
+            android:screenOrientation="locked"
+            android:theme="@style/MyTheme" />
+        <activity
+            android:name="com.resturant.me.AllPat"
+            android:screenOrientation="locked"
+            android:theme="@style/MyTheme" />
+        <activity
+            android:name="com.resturant.me.Names"
+            android:label="Credits"
+            android:screenOrientation="locked"
+            android:theme="@style/MyTheme" />
+        <activity
+            android:name="com.resturant.me.CommingSoon"
+            android:screenOrientation="locked"
+            android:theme="@style/MyTheme" />
+
+        <receiver android:name="com.resturant.me.ConnectivityChangeReceiver" >
+            <intent-filter>
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.resturant.me.Upload" />
+
+        <activity
+            android:name="com.kinvey.android.ui.MICLoginActivity"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="kinveyauthdemo" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="com.google.android.gms.measurement.AppMeasurementContentProvider"
+            android:authorities="com.resturant.me.google_measurement_service"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

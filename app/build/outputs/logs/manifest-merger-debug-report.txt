@@ -1,0 +1,295 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:11:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:12:4-74
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:12:21-71
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:13:5-67
+MERGED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:14:5-79
+MERGED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:15:22-68
+application
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:18:5-69:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:14:5-27:19
+MERGED from [com.google.android.gms:play-services-gcm:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:21:9-44
+	android:allowBackup
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:20:9-39
+	android:theme
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:22:9-69
+activity#com.resturant.me.Spalsh
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:24:9-33:20
+	android:screenOrientation
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:26:13-47
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:25:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.resturant.me.Menu
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:34:9-45:20
+	android:screenOrientation
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:38:13-47
+	android:label
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:37:13-33
+	android:theme
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:36:13-33
+intent-filter#android.intent.category.DEFAULT+com.resturant.me.MENU
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:40:13-44:29
+action#com.resturant.me.MENU
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:41:17-64
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:41:25-61
+category#android.intent.category.DEFAULT
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:43:27-73
+activity#com.resturant.me.Rest
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:48:9-136
+	android:screenOrientation
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:48:72-106
+	android:label
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:48:107-134
+	android:theme
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:48:41-71
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:48:20-40
+activity#com.resturant.me.AllRest
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:49:10-112
+	android:screenOrientation
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:49:76-110
+	android:theme
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:49:45-75
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:49:21-44
+activity#com.resturant.me.Ice
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:50:11-109
+	android:screenOrientation
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:50:73-107
+	android:theme
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:50:42-72
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:50:22-41
+activity#com.resturant.me.AllIce
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:51:10-111
+	android:screenOrientation
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:51:75-109
+	android:theme
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:51:44-74
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:51:21-43
+activity#com.resturant.me.Cafes
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:52:11-133
+	android:screenOrientation
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:52:75-109
+	android:label
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:52:110-131
+	android:theme
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:52:44-74
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:52:22-43
+activity#com.resturant.me.AllCAfes
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:53:12-115
+	android:screenOrientation
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:53:79-113
+	android:theme
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:53:48-78
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:53:23-47
+activity#com.resturant.me.Pat
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:54:12-138
+	android:screenOrientation
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:54:74-108
+	android:label
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:54:109-136
+	android:theme
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:54:43-73
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:54:23-42
+activity#com.resturant.me.AllPat
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:55:12-113
+	android:screenOrientation
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:55:77-111
+	android:theme
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:55:46-76
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:55:23-45
+activity#com.resturant.me.Names
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:56:12-136
+	android:screenOrientation
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:56:76-110
+	android:label
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:56:111-134
+	android:theme
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:56:45-75
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:56:23-44
+activity#com.resturant.me.CommingSoon
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:57:13-119
+	android:screenOrientation
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:57:83-117
+	android:theme
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:57:52-82
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:57:24-51
+receiver#com.resturant.me.ConnectivityChangeReceiver
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:60:9-65:20
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:60:19-61
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.WIFI_STATE_CHANGED
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:61:13-64:29
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:62:17-78
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:62:25-75
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:63:17-79
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:63:25-76
+service#com.resturant.me.Upload
+ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:67:9-42
+	android:name
+		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:67:18-40
+activity#com.kinvey.android.ui.MICLoginActivity
+ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:15:9-26:20
+	android:launchMode
+		ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:16:13-66
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:18:13-25:29
+action#android.intent.action.VIEW
+ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:19:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:22:17-78
+	android:name
+		ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:22:27-75
+data
+ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:24:17-57
+	android:scheme
+		ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:24:23-54
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:21:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:42:11-82
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:22:13-58

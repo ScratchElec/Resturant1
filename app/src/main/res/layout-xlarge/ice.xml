@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Ice" >
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/ce" >
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <ImageButton
+                    android:id="@+id/rsh"
+                   android:layout_width="450px"
+                android:layout_height="130px"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="20dp"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/rsh" />
+
+                <ImageButton
+                    android:id="@+id/kok"
+                   android:layout_width="450px"
+                android:layout_height="130px"
+                    android:layout_alignLeft="@+id/rsh"
+                    android:layout_below="@+id/rsh"
+                    android:layout_marginTop="40dp"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/kok" />
+
+                <ImageButton
+                    android:id="@+id/robin"
+                    android:layout_width="450px"
+                android:layout_height="130px"
+                    android:layout_alignLeft="@+id/rsh"
+                    android:layout_below="@+id/kok"
+                    android:layout_marginTop="40dp"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/robin" />
+
+                <ImageButton
+                    android:id="@+id/nine"
+                    android:layout_width="450px"
+                android:layout_height="130px"
+                    android:layout_alignLeft="@+id/rsh"
+                    android:layout_below="@+id/robin"
+                    android:layout_marginTop="40dp"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/nine" />
+                <ImageButton
+                    android:id="@+id/ft"
+                    android:layout_width="450px"
+                android:layout_height="130px"
+                    android:layout_alignLeft="@+id/rsh"
+                    android:layout_below="@+id/nine"
+                    android:layout_marginTop="40dp"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/fto" />
+            </RelativeLayout>
+        </ScrollView>
+    </FrameLayout>
+
+</LinearLayout>
