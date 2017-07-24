@@ -17,22 +17,22 @@ ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:2:1-71:12
 		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
-MERGED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-gcm:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\32e0f9857d5a12c5d22f5d6bad23d58a65f9f4da\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\6128d9cf565594f6677e7c651193a1237f6b2e62\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\e49be166f4c78fdacd812c7a2a38fbb72c6201f8\output\AndroidManifest.xml:21:5-43
+MERGED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\03bfd55fabb8faaa68a4e8aee1d31da1a6b09e20\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\cbb606cdf8fb9fc321f99b8740635ece82f87f0d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\6b0e1141b8602dd21eea690dd3553e8e3847ad91\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\a76b18437f65a6bb975673abad750c91330fddf0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\a03361a54286076c77d8f10e61f727f7a02d828a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\b912c8a045814fbb7b19078c7822c1a2b37d0c88\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\47ad7cea90b7edf523da4ec6ff5ca4cc87ab9247\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\3e33995403fbb8d49d1a883458b3a4f44268bce6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\77052f23217a52dd53deb877b1cdac3f18615781\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\32e0f9857d5a12c5d22f5d6bad23d58a65f9f4da\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml
@@ -51,15 +51,15 @@ ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:12:4-74
 		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:12:21-71
 uses-permission#android.permission.INTERNET
 ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:13:5-67
-MERGED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-gcm:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:21:5-67
+MERGED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\03bfd55fabb8faaa68a4e8aee1d31da1a6b09e20\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:21:5-67
 	android:name
 		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:13:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:14:5-79
-MERGED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:12:5-79
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:22:5-79
+MERGED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:22:5-79
 	android:name
 		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:14:22-76
 uses-permission#android.permission.GET_ACCOUNTS
@@ -68,19 +68,19 @@ ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:15:5-71
 		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:15:22-68
 application
 ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:18:5-69:19
-MERGED from [com.android.support:appcompat-v7:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
-MERGED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:14:5-27:19
-MERGED from [com.google.android.gms:play-services-gcm:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:26:5-46:19
-MERGED from [com.google.android.gms:play-services-basement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.1] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\32e0f9857d5a12c5d22f5d6bad23d58a65f9f4da\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\6128d9cf565594f6677e7c651193a1237f6b2e62\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\e49be166f4c78fdacd812c7a2a38fbb72c6201f8\output\AndroidManifest.xml:23:5-20
+MERGED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:14:5-27:19
+MERGED from [com.google.android.gms:play-services-gcm:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\03bfd55fabb8faaa68a4e8aee1d31da1a6b09e20\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\6b0e1141b8602dd21eea690dd3553e8e3847ad91\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\a76b18437f65a6bb975673abad750c91330fddf0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\a03361a54286076c77d8f10e61f727f7a02d828a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\b912c8a045814fbb7b19078c7822c1a2b37d0c88\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\47ad7cea90b7edf523da4ec6ff5ca4cc87ab9247\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\3e33995403fbb8d49d1a883458b3a4f44268bce6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Mahmoud Ellawatty\.android\build-cache\77052f23217a52dd53deb877b1cdac3f18615781\output\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:21:9-44
 	android:allowBackup
@@ -232,64 +232,64 @@ ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:67:9-42
 	android:name
 		ADDED from E:\Android\Resturant1\app\src\main\AndroidManifest.xml:67:18-40
 activity#com.kinvey.android.ui.MICLoginActivity
-ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:15:9-26:20
+ADDED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:15:9-26:20
 	android:launchMode
-		ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:17:13-44
+		ADDED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:17:13-44
 	android:name
-		ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:16:13-66
+		ADDED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:16:13-66
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:18:13-25:29
+ADDED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:18:13-25:29
 action#android.intent.action.VIEW
-ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:19:17-69
+ADDED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:19:25-66
+		ADDED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:19:25-66
 category#android.intent.category.BROWSABLE
-ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:22:17-78
+ADDED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:22:17-78
 	android:name
-		ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:22:27-75
+		ADDED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:22:27-75
 data
-ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:24:17-57
+ADDED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:24:17-57
 	android:scheme
-		ADDED from [:kinvey-android-2.10.5:] E:\Android\Resturant1\app\build\intermediates\exploded-aar\kinvey-android-2.10.5\AndroidManifest.xml:24:23-54
+		ADDED from [:kinvey-android-2.10.5:] C:\Users\Mahmoud Ellawatty\.android\build-cache\255ee27a62ecf48566c59aabbd16eec75c13ce30\output\AndroidManifest.xml:24:23-54
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:21:5-82
+ADDED from [com.google.android.gms:play-services-gcm:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\03bfd55fabb8faaa68a4e8aee1d31da1a6b09e20\output\AndroidManifest.xml:21:5-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:21:22-79
+		ADDED from [com.google.android.gms:play-services-gcm:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\03bfd55fabb8faaa68a4e8aee1d31da1a6b09e20\output\AndroidManifest.xml:21:22-79
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:24:5-67
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:24:22-65
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:24:22-65
 provider#com.google.android.gms.measurement.AppMeasurementContentProvider
-ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:28:7-31:37
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:28:7-31:37
 	android:authorities
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:29:11-76
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:29:11-76
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:31:11-35
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:31:11-35
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:30:11-90
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:30:11-90
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:33:7-39:18
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:33:7-39:18
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:35:11-33
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:35:11-33
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:34:11-83
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:34:11-83
 intent-filter#com.google.android.gms.measurement.UPLOAD
-ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:36:9-38:25
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:36:9-38:25
 action#com.google.android.gms.measurement.UPLOAD
-ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:37:11-77
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:37:11-77
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:37:19-75
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:37:19-75
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:41:7-44:37
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:41:7-44:37
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:43:11-33
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:43:11-33
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:44:11-35
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:44:11-35
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:42:11-82
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\b5572aed4d78895a9f85525f07f6a906f301c15a\output\AndroidManifest.xml:42:11-82
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\6b0e1141b8602dd21eea690dd3553e8e3847ad91\output\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\6b0e1141b8602dd21eea690dd3553e8e3847ad91\output\AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:8.3.0] E:\Android\Resturant1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\Mahmoud Ellawatty\.android\build-cache\6b0e1141b8602dd21eea690dd3553e8e3847ad91\output\AndroidManifest.xml:22:13-58
